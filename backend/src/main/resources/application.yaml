@@ -1,0 +1,13 @@
+
+spring:
+  application:
+    name: backend
+  datasource:
+    url: jdbc:postgresql://localhost:5432/system-inventory
+    username: postgres
+    password: secret
+
+  jpa:
+    generate-ddl: true
+    hibernate:
+      ddl-auto: update
