@@ -2,6 +2,12 @@
 
 A simple full-stack inventory application for creating, viewing, editing, and deleting products. The backend is built with Spring Boot and PostgreSQL, and the frontend is built with React and Vite.
 
+## Source code: https://github.com/zephyr139/mini-inventory-system.git
+
+## VIDEO (CODING): https://youtu.be/IA0u2lp48t4
+
+## VIDEO (PRESENTATION): https://youtu.be/n1AwEoIPLgc
+
 ## How to Run the Project
 
 ### Run with Docker
